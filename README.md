@@ -1,7 +1,7 @@
 # ML-Stock-Predictor
 
 ### Overview
-The project focused on predicting the S&P 500 index using machine learning models. The dataset was sourced from Yahoo Finance, and various preprocessing, modeling, and evaluation techniques were applied to build an accurate predictive model.
+The project focused on predicting the S&P 500 index using machine learning models. This research was conducted with 2 colleagues from Kean Unversity. The dataset was sourced from Yahoo Finance, and various preprocessing, modeling, and evaluation techniques were applied to build an accurate predictive model.
 
 ### Methodology
 1. Data Preprocessing:
